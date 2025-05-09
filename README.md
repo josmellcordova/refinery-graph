@@ -1,2 +1,6 @@
-# refinery-graph
-Graph of a petroleum refinery
+# Graph of a petroleum refinery
+* Creating the graph
+* Clustering coefficient
+* Centrality metrics
+* Communities detection
+* Graph division
